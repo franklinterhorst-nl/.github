@@ -1,4 +1,4 @@
-[<img width="70%" src="https://github.com/franklinterhorst-nl/.github/raw/main/profile/logo.png?raw=true"/>](https://franklinterhorst-nl.github.io/)
+[<img width="7.5%" src="https://github.com/franklinterhorst-nl/.github/raw/main/profile/logo.png?raw=true"/>](https://franklinterhorst-nl.github.io/)
 
 ---
 # franklinterhorst.nl
