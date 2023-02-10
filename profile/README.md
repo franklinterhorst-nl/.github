@@ -1,7 +1,6 @@
-[<img width="7.5%" src="https://github.com/franklinterhorst-nl/.github/raw/main/profile/logo.png?raw=true"/>](https://franklinterhorst-nl.github.io/)
+[<img width="70%" src="https://github.com/franklinterhorst-nl/.github/raw/main/profile/logo..png?raw=true"/>](https://franklinterhorst-nl.github.io/)
 
 ---
-# franklinterhorst.nl
 
 As the domain `franklinterhorst.nl` will soon come to an end as the current maintainer is very ill and - according to doctors - will die within a couple of months. And there is no plan to extend and maintain this website after his dead. His domain will be fransfered to this repository. 
 <details><summary>see his own message on his site</summary>
